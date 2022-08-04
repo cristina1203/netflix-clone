@@ -1,7 +1,7 @@
 {
   "name": "netflix-clone",
   "version": "0.1.0",
-  "homepage": "https://cristina1203.github.io/netflix-homepage-clone",
+  "homepage": "https://cristina1203.github.io/netflix-clone",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
