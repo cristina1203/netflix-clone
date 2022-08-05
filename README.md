@@ -1,3 +1,3 @@
-# Netflix Homepage Clone using React 
+# Netflix Homepage Clone using React and TMDB API
 
 
